@@ -1,0 +1,5 @@
+.sections{
+display: flex;
+width: 40%;
+flex-direction: column;
+}
